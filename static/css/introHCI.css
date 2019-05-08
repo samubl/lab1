@@ -9,6 +9,22 @@
 	color: #CC00AA;
 }
 
+.p {
+     font-variant: small-caps;
+}
+
+.project p {
+     font-variant: small-caps;
+}
+
+#project1 {
+     font-variant: small-caps;
+     margin-left: 1px;
+     background-color: #ab1234;
+     padding: 1px;
+     width: 1px;
+}
+
 .project {
      margin-left: 20px;
 }
